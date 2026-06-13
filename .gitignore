@@ -1,0 +1,29 @@
+# .NET
+bin/
+obj/
+TestResults/
+*.user
+*.rsuser
+
+# Aspire and local app state
+.aspire/
+.containerapps/
+
+# Frontend
+node_modules/
+.next/
+out/
+build/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
